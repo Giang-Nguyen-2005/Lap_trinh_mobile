@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "886398564907",
+    "project_id": "mycomposeapp-c7f20",
+    "storage_bucket": "mycomposeapp-c7f20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886398564907:android:97cc20a040a2ad7545086e",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886398564907-plro5t0rpltv5hnv8kma3gi278hlehi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6B2I9n-xmUFBkC9sPNuU7HpZohjVs8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886398564907-plro5t0rpltv5hnv8kma3gi278hlehi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886398564907:android:48bc38bb65302d6e45086e",
+        "android_client_info": {
+          "package_name": "com.example.mycomposeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886398564907-5kl9jtqpggohck8k5l6vbstiu1gduqbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycomposeapp",
+            "certificate_hash": "7d49daff52deb8f1a8e56ab9a5bac8f9b6d0be62"
+          }
+        },
+        {
+          "client_id": "886398564907-plro5t0rpltv5hnv8kma3gi278hlehi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6B2I9n-xmUFBkC9sPNuU7HpZohjVs8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886398564907-plro5t0rpltv5hnv8kma3gi278hlehi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
